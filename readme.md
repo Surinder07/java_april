@@ -20,7 +20,11 @@ git checkout -b branch_name   ---- create and switch in single shot
 
  
 
-
+   main         
+     \
+    Staging
+       |
+    feature/Sunny        
 
     
 
